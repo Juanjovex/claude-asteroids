@@ -6,7 +6,7 @@ Clon del clásico arcade **Asteroids** implementado en canvas HTML5 puro, sin de
 
 -a
 -b
-
+-c
 
 ## Demo:
 
